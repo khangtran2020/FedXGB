@@ -1,2 +1,1 @@
-# template
-Coding template for data science research project.
+# Coding template for data science research project.
